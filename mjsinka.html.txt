@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My First Website</title>
+  </head>
+  <body>
+    <h1>My First Website</h1>
+    <h2></h2>
+    <p>This is my very first website and I am very happy <i class="fa fa-html5" aria-hidden="true"></i></p>
+    <p>I am a student at Kisii University and I am happy for designing my first website <i class="fa fa-old-republic"></i></p>
+  </body>
+</html>
